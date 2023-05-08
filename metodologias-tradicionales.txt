@@ -1,0 +1,6 @@
+metodologias tradicionales
+cascada
+RAD
+espiral
+incremental
+prototipo
